@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1340-blip
+- 👋 Hi, I’m Neil Angel Costa
 - 👀 I’m interested in electronics,robotics and design
 - 🌱 I’m currently learnin  CFD,ROS2
 
